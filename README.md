@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @TravelingSalesmanDijkstra
-- 👀 I’m interested in creative coding
-- 🌱 I’m currently learning python turtle
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @BarelyContained (formerly known as TravelingSalesmanDijkstra)
+- 👀 I’m not sure what I'm interested in
+- 🌱 I’m currently learning XAB
+- 💞️ I’m looking to collaborate on building massive projects
+- 📫 How to reach me: via email?
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I can write upside down
 
 <!---
 TravelingSalesmanDijkstra/TravelingSalesmanDijkstra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
